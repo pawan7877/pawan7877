@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**pawan7877/pawan7877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am pawan mehar
 
-Here are some ideas to get you started:
+## i am fresher and looking for job
+## technical skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. HTMl
+2. css
+3. java script
+4. java
+5. jdbc
+6. servlet
+7. jsp
+8. spring boot
+9. maven
+10. tomcat
+    
